@@ -1,4 +1,4 @@
-package fr.insa_cvl.cioasynctask;
+package fr.insa_cvl.cioasynctask2;
 
 import org.junit.Test;
 
